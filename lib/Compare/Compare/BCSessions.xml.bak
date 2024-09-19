@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCSessions>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="d.php %3C--%3E d.de.php">
+						<LastModified Value="2013-05-10 13:28:42"/>
+						<Specs>
+							<Left Value="D:\delphi源码\Dezend_Germ\decode\d.php"/>
+							<Right Value="D:\delphi源码\Dezend_Germ\decode\d.de.php"/>
+						</Specs>
+						<State>
+							<InsigIgnored Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="down_con.de.php.g.php %3C--%3E down_con.php">
+						<LastModified Value="2013-01-15 09:22:00"/>
+						<Specs>
+							<Left Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\down_con.de.php.g.php"/>
+							<Right Value="D:\PHPWIPS\webroot\down\admin\down_con.php"/>
+						</Specs>
+						<State>
+							<InsigIgnored Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="post.php %3C--%3E post.de.php.g.php">
+						<LastModified Value="2013-01-15 09:09:28"/>
+						<Specs>
+							<Left Value="D:\PHPWIPS\webroot\down\admin\post.php"/>
+							<Right Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\post.de.php.g.php"/>
+						</Specs>
+						<State>
+							<InsigIgnored Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="multicat.js">
+						<LastModified Value="2013-01-15 08:57:35"/>
+						<Specs>
+							<Left Value="D:\PHPWIPS\webroot\down\admin\js\multicat.js"/>
+							<Right Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\js\multicat.js"/>
+						</Specs>
+						<State>
+							<InsigIgnored Value="True"/>
+						</State>
+					</TTextCompareSession>
+					<TTextCompareSession Value="td_core.de.php %3C--%3E td_core.de.de.php">
+						<LastModified Value="2012-12-18 12:03:48"/>
+						<Specs>
+							<Left Value="D:\delphi源码\Dezend_Germ\decode\td_core.de.php"/>
+							<Right Value="D:\delphi源码\Dezend_Germ\decode\td_core.de.de.php"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="Untitled.frx %3C--%3E Untitled.de.frx">
+						<LastModified Value="2012-12-18 12:03:25"/>
+						<Specs>
+							<Left Value="D:\delphi源码\Dezend_Germ\decode\Untitled.frx"/>
+							<Right Value="D:\delphi源码\Dezend_Germ\decode\Untitled.de.frx"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="d.de.php %3C--%3E d.php">
+						<LastModified Value="2012-12-18 11:58:59"/>
+						<Specs>
+							<Left Value="D:\delphi源码\Dezend_Germ\decode\d.de.php"/>
+							<Right Value="D:\delphi源码\Dezend_Germ\decode\d.php"/>
+						</Specs>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TTextCompareSession>
+				<State>
+					<InsigIgnored Value="True"/>
+				</State>
+			</TTextCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

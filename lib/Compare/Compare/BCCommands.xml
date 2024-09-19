@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCCommands>
+	<TTextCompareCommands>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;0"/>
+			<DisplayFiltersBar Value="TopDock;;;1"/>
+			<EditBar Value="TopDock;;;2"/>
+			<SearchBar Value="TopDock;;;3"/>
+			<ViewBar Value="TopDock;;;4"/>
+		</Toolbars>
+	</TTextCompareCommands>
+</BCCommands>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCState>
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPosStr Value="92;129;1316;860;3"/>
+	</TBcState>
+	<TCheckForUpdatesState>
+		<Build Value="15876"/>
+		<LastChecked Value="2013-05-10 13:28:35"/>
+	</TCheckForUpdatesState>
+	<THomeState>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\delphi源码\Dezend_Germ\decode\d.php"/>
+			<_1 Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\down_con.de.php.g.php"/>
+			<_2 Value="D:\PHPWIPS\webroot\down\admin\post.php"/>
+			<_3 Value="D:\PHPWIPS\webroot\down\admin\js\multicat.js"/>
+			<_4 Value="D:\delphi源码\Dezend_Germ\decode\td_core.de.php"/>
+			<_5 Value="D:\delphi源码\Dezend_Germ\decode\d.de.php"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\delphi源码\Dezend_Germ\decode\d.de.php"/>
+			<_1 Value="D:\PHPWIPS\webroot\down\admin\down_con.php"/>
+			<_2 Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\post.de.php.g.php"/>
+			<_3 Value="E:\PHPWEB\升级包\V1.5.0  20111209 升级包\update\20090612\down\admin\js\multicat.js"/>
+			<_4 Value="D:\delphi源码\Dezend_Germ\decode\d.php"/>
+		</RightMRUSpecs>
+		<ShowWS Value="True"/>
+	</TTextCompareState>
+</BCState>

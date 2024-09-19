@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\DeZend_Tool\command]
+@="\"C:\\Users\\User\\Desktop\\tools\\G-DeZender_1.0.1.0\\DeZend_Tool.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\*\shell\DeZend_Tool_53\command]
+@="\"C:\\Users\\User\\Desktop\\tools\\G-DeZender_1.0.1.0\\DeZend_Tool.exe\" \"%1\" 53"
+
+[HKEY_CLASSES_ROOT\*\shell\DeZend_Tool_54\command]
+@="\"C:\\Users\\User\\Desktop\\tools\\G-DeZender_1.0.1.0\\DeZend_Tool.exe\" \"%1\" 54"
